@@ -1,4 +1,4 @@
-## Your Name
+## Judith Lloyd-Jones
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,28 +23,36 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September to December 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+#- Curious and passionate about code. [PROVIDE EVIDENCE]
+#- Fast, independent learner [PROVIDE EVIDENCE]
+#- Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#- OOP, TDD, MVC, DDD
+#- Agile/XP
+#- Ruby, Rails, JavaScript
+#- RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Lancaster University, County College (September 2008 to July 2011)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA (Hons) History
+- First Class
 
-#### Any other qualifications
+#### Kings Edwards VI Upper School, Bury St Edmunds (September 2003 to July 2008)
+
+- A Levels: Mathematics (A), History (A), Chemistry (C)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**University of East London** (December 2017 to August 2018)    
+*Quality Assurance Officer*  
+
+**London School of Hygiene and Tropical Medicine** (August 2016 to November 2017)   
+*Programme Administrator*  
+
+**Baker Dearing Educational Trust** (May 2015 to February 2016)
+*Team Assistant*
+
+**Shane English School, Tokyo** (August 2013 to September 2014) & **International House, Budapest** (November 2012 to July 2013)
+*English Language Teacher*
