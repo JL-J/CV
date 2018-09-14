@@ -4,35 +4,30 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Skills
 
-#### This Skill
+#### Excellent communicator 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Throughout my professional life I have gained extensive experience of communicating with a wide variety of people from different backgrounds, including students, academics, politicians, and external stakeholders. During my time working as an English language teacher, I developed excellent verbal communication skills and learnt to adapt my language to my audience. At the University of East London I gained experience of writing reports and servicing committees which further honed my communication skills. Most recently I have continued to develop my written communication skills by [blogging] (https://medium.com/@j.r.lloydjones) about my experience learning to code.
+ 
+#### Adaptable and a fast learner
 
-- Experience
-- Achievements
-- Evidence
+Whether it's learning a new programming language, working in a different country, or working with a new team, I am quick to adapt to any environment. I enjoy the opportunities and challenges that new working environments or projects bring and am undaunted by the unknown. [PROVIDE EXAMPLE]
 
-#### Another Skill
+#### Analytical and creative
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Team player
 
 ## Education
 
 #### Makers Academy (September to December 2018)
 
-#- Curious and passionate about code. [PROVIDE EVIDENCE]
-#- Fast, independent learner [PROVIDE EVIDENCE]
-#- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code. [PROVIDE EVIDENCE]
+- Fast, independent learner [PROVIDE EVIDENCE]
+- Great collaborator [PROVIDE EVIDENCE]
 
-#- OOP, TDD, MVC, DDD
-#- Agile/XP
-#- Ruby, Rails, JavaScript
-#- RSpec, Jasmine
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
 
 #### Lancaster University, County College (September 2008 to July 2011)
 
@@ -45,14 +40,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**University of East London** (December 2017 to August 2018)    
+**University of East London, London** (December 2017 to August 2018)    
 *Quality Assurance Officer*  
 
-**London School of Hygiene and Tropical Medicine** (August 2016 to November 2017)   
+**London School of Hygiene and Tropical Medicine, London** (August 2016 to November 2017)   
 *Programme Administrator*  
 
-**Baker Dearing Educational Trust** (May 2015 to February 2016)
+**Baker Dearing Educational Trust, London** (May 2015 to February 2016)
 *Team Assistant*
 
-**Shane English School, Tokyo** (August 2013 to September 2014) & **International House, Budapest** (November 2012 to July 2013)
+**Shane English School, Tokyo** (August 2013 to September 2014) 
+**International House, Budapest** (November 2012 to July 2013)
 *English Language Teacher*
+
+## Interests
+
+- Yoga
+- Painting, lino printing and paper marbling
+- Reading
+- Traveling
