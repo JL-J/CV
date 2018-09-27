@@ -55,7 +55,7 @@ During my time working in the Higher Education sector I have developed a good ey
 *Team Assistant*  
 
 **Shane English School, Tokyo** (August 2013 to September 2014)  
-**International House, Budapest** (November 2012 to July 2013) 
+**International House, Budapest** (November 2012 to July 2013)
 *English Language Teacher* 
 
 ## Interests
