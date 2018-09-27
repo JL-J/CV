@@ -61,6 +61,6 @@ During my time working in the Higher Education sector I have developed a good ey
 ## Interests
 
 - Yoga
-- Painting, lino printing and paper marbling
+- Painting and lino printing
 - Reading
 - Traveling
