@@ -48,7 +48,7 @@ During my time working in the Higher Education sector I have developed a good ey
 **University of East London, London** (December 2017 to August 2018)    
 *Quality Assurance Officer*  
 
-**London School of Hygiene and Tropical Medicine, London** (August 2016 to November 2017)   
+**London School of Hygiene and Tropical Medicine, London** (August 2016 to November 2017)  
 *Programme Administrator*  
 
 **Baker Dearing educational Trust, London** (May 2015 to February 2016)    
