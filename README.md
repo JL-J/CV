@@ -15,7 +15,7 @@ Whether it's learning a new programming language, working in a different country
 
 #### Team player with ability to work under own initiative 
 
-[EXAMPLE]
+A team player, I am always comfortable finding my place in a team and ensuring that collectively we meet deadlines to a high-standard of work. Whilst working at the London School of Hygiene & Tropical Medicine I volunteered to take on the responsibility of additional modules when my team was short-staffed, despite having been in my role for only six months. Although my workload increased by 50% during the spring term, due to my strong time-management skills and ability to work flexibly, I was still able to meet deadlines and offer excellent administrative support. 
 
 #### Good attention to detail
 
