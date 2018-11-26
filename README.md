@@ -1,14 +1,14 @@
-<h1 align="center"> # Judith Lloyd-Jones </h1>
-
+<h1 align="center"> Judith Lloyd-Jones </h1>
+ 
 <div align="center">
-[Projects ](#projects) | 
-[Skills ](#skills) | 
-[Education ](#education) | 
-[Experience ](#experience) | 
-[Interests ](#interests)
+ 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+
 </div>
 
 I am a well-rounded candidate with highly developed soft skills, looking to take on a career as a junior developer in East Anglia. After working in education for several years I wanted to take on a new challenge and retrain. Since September 2018 I have been studying at Makers (https://makers.tech/), a developer bootcamp, where I have been learning fundamentals of software development through making projects. 
+
+# Projects
 
 
 # Skills
