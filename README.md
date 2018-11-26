@@ -1,9 +1,17 @@
-## JUDITH LLOYD-JONES
+<h1 align="center"> # Judith Lloyd-Jones </h1>
+
+<div align="center">
+[Projects ](#projects) | 
+[Skills ](#skills) | 
+[Education ](#education) | 
+[Experience ](#experience) | 
+[Interests ](#interests)
+</div>
 
 I am a well-rounded candidate with highly developed soft skills, looking to take on a career as a junior developer in East Anglia. After working in education for several years I wanted to take on a new challenge and retrain. Since September 2018 I have been studying at Makers (https://makers.tech/), a developer bootcamp, where I have been learning fundamentals of software development through making projects. 
 
 
-## Skills
+# Skills
 
 #### Excellent communicator 
 
@@ -21,7 +29,7 @@ A team player, I am always comfortable finding my place in a team and ensuring t
 
 During my time working in the Higher Education sector I have developed a good eye for detail. I have been responsible for managing a number of different databases; for example as a Programme Administrator I was responsible for calculating, entering and checking student grades. This attention to detail comes through in my coding and is invaluable when searching for that one tiny bug.
 
-## Education
+# Education
 
 #### Makers Academy (September to December 2018)
 
@@ -43,7 +51,7 @@ During my time working in the Higher Education sector I have developed a good ey
 
 - A Levels: Mathematics (A), History (A), Chemistry (C)
 
-## Experience
+# Experience
 
 **University of East London, London** (December 2017 to August 2018)    
 *Quality Assurance Officer*  
@@ -58,7 +66,7 @@ During my time working in the Higher Education sector I have developed a good ey
 **International House, Budapest** (November 2012 to July 2013)<br/>
 *English Language Teacher* 
 
-## Interests
+# Interests
 
 - Yoga
 - Painting and lino printing
