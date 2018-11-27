@@ -6,13 +6,16 @@
 
 </div>
 
-I am a well-rounded candidate with highly developed soft skills, looking to take on a career as a junior developer in East Anglia. After working in education for several years I wanted to take on a new challenge and retrain. Since September 2018 I have been studying at Makers (https://makers.tech/), a developer bootcamp, where I have been learning fundamentals of software development through making projects. You can read more about my desicion to retrain in my blog post ['Why I chose a career in Tech'](https://medium.com/@j.r.lloydjones/why-i-chose-a-career-in-tech-c33c3a3c28dc). 
+I am a well-rounded candidate with highly developed soft skills, looking to take on a career as a junior developer in East Anglia. After working in education for several years I wanted to take on a new challenge and retrain. Since September 2018 I have been studying at Makers (https://makers.tech/), a developer bootcamp, where I have been learning fundamentals of software development through making projects. 
+
+You can read more about my desicion to retrain in my blog post ['Why I chose a career in Tech'](https://medium.com/@j.r.lloydjones/why-i-chose-a-career-in-tech-c33c3a3c28dc). 
 
 # Projects
 
 | Project       | Summary       | Technologies  | Testing |
 | ------------- |---------------| --------------|---------|
 [Makers BnB](https://github.com/rbbri/makersbnb) | My first group project creating a knock-off of Airbnb in a week. | Ruby HTML/CSS, ActiveRecord, Sinatra, Bcrypt | RSpec, Capybara |
+[Thermostat](https://github.com/JL-J/Thermostat_interface) | A simple project made during my first week learning JavaScript and jQuery. This program interacts with an API to get the current weather in different cities. | JavaScript, jQuery, OpenWeatherMap API | Jasmine |
 
 # Skills
 
