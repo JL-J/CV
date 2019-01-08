@@ -14,7 +14,8 @@ You can read more about my desicion to retrain in my blog post ['Why I chose a c
 
 | Project       | Summary       | Technologies  | Testing |
 | ------------- |---------------| --------------|---------|
-[Makers BnB](https://github.com/rbbri/makersbnb) | My first group project creating a knock-off of Airbnb in a week. | Ruby HTML/CSS, ActiveRecord, Sinatra, Bcrypt | RSpec, Capybara |
+[Splitr](https://github.com/JL-J/splitr_app) | A mobile app compatible with iOS and Android to help organise events. | JavaScript, React Native, Redux | Jest, Enzyme, ESlint |
+[Makers BnB](https://github.com/rbbri/makersbnb) | My first group project creating a replica of Airbnb in a week. | Ruby HTML/CSS, ActiveRecord, Sinatra, Bcrypt | RSpec, Capybara |
 [Thermostat](https://github.com/JL-J/Thermostat_interface) | A simple project made during my first week learning JavaScript and jQuery. This program interacts with an API to get the current weather in different cities. | JavaScript, jQuery, OpenWeatherMap API | Jasmine |
 
 # Skills
