@@ -40,12 +40,12 @@ During my time working in the Higher Education sector I have developed a good ey
 
 #### Makers Academy (September to December 2018)
 During the course I have gained knowledge and experience of:
-- Design principles: OOD, MVC, DDD, SRP
+- Design principles: OOD, MVC, SOLID
 - Coding best practices: Agile/XP, TDD
-- Languages: Ruby, JavaScript (and jQuery), complemented by HTML/CSS 
-- Web Frameworks: Sinatra, Ruby on Rails
+- Languages: Ruby, JavaScript (and jQuery), complemented by HTML, CSS, Bootstrap, YAML
+- Frameworks: Sinatra, Ruby on Rails, , React Native
 - Databases and ORMs: PostgreSQL and ActiveRecord
-- Testing Suites: RSpec, Capybara, Jasmine 
+- Testing suites and linters: RSpec, Capybara, Jasmine, Jest, Enzyme, Rubocop, ESLint
 - CI/CD: Travis CI, Heroku
 
 #### Lancaster University, County College (September 2008 to July 2011)
