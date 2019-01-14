@@ -6,7 +6,7 @@
 
 </div>
 
-I am a well-rounded candidate with highly developed soft skills, looking to take on a career as a junior developer in East Anglia. After working in education for several years I wanted to take on a new challenge and retrain. Since September 2018 I have been studying at Makers (https://makers.tech/), a developer bootcamp, where I have been learning fundamentals of software development through making projects. 
+I am a well-rounded candidate with highly developed soft skills, looking to take on a career as a junior developer in East Anglia. After working in education for several years I wanted to take on a new challenge and retrain. At the end of 2018 I completed the [Makers](https://makers.tech/) developer course, where I learnt the fundamentals of software development through making projects. 
 
 You can read more about my decision to retrain in my blog post ['Why I chose a career in Tech'](https://medium.com/@j.r.lloydjones/why-i-chose-a-career-in-tech-c33c3a3c28dc). 
 
@@ -15,18 +15,18 @@ You can read more about my decision to retrain in my blog post ['Why I chose a c
 | Project       | Summary       | Technologies  | Testing |
 | ------------- |---------------| --------------|---------|
 [Splitr](https://github.com/JL-J/splitr_app) | A mobile app compatible with iOS and Android to help organise events. | JavaScript, React Native, Redux | Jest, Enzyme, ESlint |
-[Makers BnB](https://github.com/rbbri/makersbnb) | My first group project creating a replica of Airbnb in a week. | Ruby HTML/CSS, ActiveRecord, Sinatra, Bcrypt | RSpec, Capybara |
 [Thermostat](https://github.com/JL-J/Thermostat_interface) | A simple project made during my first week learning JavaScript and jQuery. This program interacts with an API to get the current weather in different cities. | JavaScript, jQuery, OpenWeatherMap API | Jasmine |
+[Acebook](https://github.com/RyanWolfen7/acebook-rails-template) | A group project creating a replica of Facebook. | Ruby on Rails, HTML/CSS/Bootstrap, ActiveRecord, Travis CI, Heroku | RSpec, Capybara |
 
 # Skills
 
 #### Excellent communicator 
 
-Throughout my professional life I have gained extensive experience of communicating with a wide variety of people from different backgrounds, including students, academics, politicians, and external stakeholders. During my time working as an English language teacher, I developed excellent verbal communication skills and learnt to adapt my language to my audience. Most recently I have continued to develop my written communication skills by blogging (https://medium.com/@j.r.lloydjones) about my experience learning to code.
+Throughout my professional life I have gained extensive experience of communicating with a wide variety of people from different backgrounds, including students, academics, politicians, and external stakeholders. During my time working as an English language teacher, I developed excellent verbal communication skills and learnt to adapt my language to my audience. During group projects at Makers I utilised stand-ups and retros to ensure effective communication with my teammates.
  
 #### Adaptable and a fast learner
 
-Whether it's learning a new programming language, working in a different country, or working with a new team, I am quick to adapt to any environment. Whilst working abroad I successfully navigated not only a new culture, but also a new career as an English teacher. I enjoy the opportunities and challenges that new working environments or projects bring and am undaunted by the unknown. 
+I enjoy the opportunities that new working environments bring, and I am quick to adapt to and overcome challenges. I first began learning to code in May 2018. Within seven months I have successfully built a number of web and mobile applications both individually and as part of a team.   
 
 #### Team player with ability to work under own initiative 
 
@@ -34,24 +34,23 @@ A team player, I am always comfortable finding my place in a team and ensuring t
 
 #### Good attention to detail
 
-During my time working in the Higher Education sector I have developed a good eye for detail through managing databases and writing reports. This attention to detail comes through in my coding and is invaluable when searching for that one tiny bug.
+During my time working as a Quality Assurance Officer I developed a good eye for detail through managing databases, writing reports, and reviewing documentation. This attention to detail is invaluable when searching for that one tiny bug in a program.
 
 # Education
 
 **Makers Academy** (September to December 2018) </br>
 During the course I have gained knowledge and experience of:
-- Design principles: OOD, MVC, SOLID
-- Coding best practices: Agile/XP, TDD
-- Languages: Ruby, JavaScript (and jQuery), complemented by HTML, CSS, Bootstrap, YAML
-- Frameworks: Sinatra, Ruby on Rails, React Native
-- Databases and ORMs: PostgreSQL and ActiveRecord
-- Testing suites and linters: RSpec, Capybara, Jasmine, Jest, Enzyme, Rubocop, ESLint
-- CI/CD: Travis CI, Heroku
+-	Design principles: OOD, MVC, SOLID
+-	Coding best practices: Agile/XP, TDD
+-	Languages: Ruby, JavaScript (and jQuery), complemented by HTML, CSS, Bootstrap, YAML
+-	Frameworks: Sinatra, Ruby on Rails, React Native
+-	Databases and ORMs: PostgreSQL and ActiveRecord
+-	Testing suites and linters: RSpec, Capybara, Jasmine, Jest, Enzyme, Rubocop, ESLint
+-	CI/CD: Travis CI, Heroku
 
 **Lancaster University** (September 2008 to July 2011)
 
-- BA (Hons) History
-- First Class
+- BA (Hons) History, First Class
 
 **Kings Edwards VI Upper School, Bury St. Edmunds** (September 2003 to July 2008)
 
