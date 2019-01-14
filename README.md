@@ -38,22 +38,22 @@ During my time working in the Higher Education sector I have developed a good ey
 
 # Education
 
-#### Makers Academy (September to December 2018)
+**Makers Academy** (September to December 2018) </br>
 During the course I have gained knowledge and experience of:
 - Design principles: OOD, MVC, SOLID
 - Coding best practices: Agile/XP, TDD
 - Languages: Ruby, JavaScript (and jQuery), complemented by HTML, CSS, Bootstrap, YAML
-- Frameworks: Sinatra, Ruby on Rails, , React Native
+- Frameworks: Sinatra, Ruby on Rails, React Native
 - Databases and ORMs: PostgreSQL and ActiveRecord
 - Testing suites and linters: RSpec, Capybara, Jasmine, Jest, Enzyme, Rubocop, ESLint
 - CI/CD: Travis CI, Heroku
 
-#### Lancaster University, County College (September 2008 to July 2011)
+**Lancaster University** (September 2008 to July 2011)
 
 - BA (Hons) History
 - First Class
 
-#### Kings Edwards VI Upper School, Bury St Edmunds (September 2003 to July 2008)
+**Kings Edwards VI Upper School, Bury St. Edmunds** (September 2003 to July 2008)
 
 - A Levels: Mathematics (A), History (A), Chemistry (C)
 
