@@ -6,7 +6,7 @@
 
 </div>
 
-I am a well-rounded candidate with highly developed soft skills, looking to take on a career as a junior developer in East Anglia. After working in education for several years I wanted to take on a new challenge and retrain. At the end of 2018 I completed the [Makers](https://makers.tech/) developer course, where I learnt the fundamentals of software development through making projects. 
+I am a well-rounded candidate with highly developed soft skills, looking to take on a career as a junior developer in East Anglia. After working in the education sector for several years I wanted to take on a new challenge and retrain. At the end of 2018 I completed the [Makers](https://makers.tech/) developer course, where I learnt the fundamentals of software development through making projects. 
 
 You can read more about my decision to retrain in my blog post ['Why I chose a career in Tech'](https://medium.com/@j.r.lloydjones/why-i-chose-a-career-in-tech-c33c3a3c28dc). 
 
