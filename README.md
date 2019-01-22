@@ -42,7 +42,7 @@ During my time working as a Quality Assurance Officer I developed a good eye for
 During the course I have gained knowledge and experience of:
 -	Design principles: OOD, MVC, SOLID
 -	Coding best practices: Agile/XP, TDD
--	Languages: Ruby, JavaScript (and jQuery), complemented by HTML, CSS, Bootstrap, YAML
+-	Languages: Ruby, JavaScript (and jQuery), complemented by HTML, CSS, Bootstrap, Haml
 -	Frameworks: Sinatra, Ruby on Rails, React Native
 -	Databases and ORMs: PostgreSQL and ActiveRecord
 -	Testing suites and linters: RSpec, Capybara, Jasmine, Jest, Enzyme, Rubocop, ESLint
